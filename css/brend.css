@@ -1,0 +1,17 @@
+.brend__list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+.brend__items{
+    display: flex;
+    width: 340px;
+    height: 140px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--Level-1, #181823);
+    background: var(--Black, #000);
+}
+
+
