@@ -1,0 +1,22 @@
+body{
+  box-sizing: border-box;
+  background-color: black;
+  margin: 0;
+  font-family: "Sen", sans-serif;
+  position: relative;
+}
+
+.grey{
+  color: gray;
+}
+.green{
+  color:#3CC74E
+}
+
+.blue{
+  color: #609BFF;
+}
+.pink{
+  color:#E95D90;
+}
+

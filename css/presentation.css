@@ -1,0 +1,46 @@
+
+.presentation{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    position: relative;
+    background-image: url("/img/fon.jpg");
+    padding-top : 165px;
+    padding-bottom: 84PX;
+    background-repeat: no-repeat;
+    background-position: right TOP;
+    /* padding: 78px 0 80px 0; */
+  
+  }
+  .presentation__image{
+    width: 750px; 
+    height: 650px;
+    overflow: hidden; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .presentation__image > img{
+    width: 100%;
+  }
+  
+  .presentation__text{
+    color: #ffffff;
+    width: 654px;
+    position: absolute;
+    margin-bottom: 0;
+    right: 20px;
+    } 
+  
+  .presentation__text > h1{
+    font-size: 66px;
+    font-weight: 700;
+    
+  }
+  .presentation__text > p{
+    font-size: 18px;
+    line-height: 150%;
+    font-weight: 400;
+    margin-top: 32px ;
+  }

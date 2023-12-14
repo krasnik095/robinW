@@ -1,0 +1,52 @@
+.work{
+  margin-top: 120px;
+}
+.work__name{
+  color:#8491A0 ;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.work__title{
+  font-size: 55px;
+  font-weight: 700;
+  color:#ffffff;
+  max-width: 668px;
+  margin-top: 8px;
+}
+
+.work__job-list{
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.work__job-number{
+  color: #8491a0;
+  font-size: 117px;
+  margin: 0;
+  font-weight: 400;
+
+}
+
+.work__job-names{
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 150%;
+  color: #ffffff;
+}
+
+.work__jobs-description{
+  color: #8491A0;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.work__job-item{
+  max-width: 416px;
+  margin-right: 24px;
+}
+
+.work__job-item :last-child{
+  margin-right: 0;
+}
