@@ -2,14 +2,13 @@
 .presentation{
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
     position: relative;
     background-image: url("/img/fon.jpg");
     padding-top : 165px;
     padding-bottom: 84PX;
     background-repeat: no-repeat;
     background-position: right TOP;
-    /* padding: 78px 0 80px 0; */
+ 
   
   }
   .presentation__image{
